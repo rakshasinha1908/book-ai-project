@@ -189,7 +189,6 @@ book-ai-project/
 │   ├── App.jsx
 │   ├── package.json
 │
-├── screenshots/
 
 ---
 
